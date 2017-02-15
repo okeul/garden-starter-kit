@@ -1,4 +1,4 @@
-// Définition du LazyPipe pour linter Stylus
+// Définition du LazyPipe pour linter a11y
 'use strict';
 
 // MODULES
